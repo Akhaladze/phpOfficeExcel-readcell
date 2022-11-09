@@ -1,6 +1,6 @@
 <?php
 require __DIR__.'/vendor/autoload.php';
-$inputFileName = './data/data.xlsx';
+$inputFileName = './data.xlsx';
 	
 
 	/** Input file name, Excel file format (xslx), max rows in Excel file **/
